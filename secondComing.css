@@ -1,0 +1,39 @@
+body {
+    background-color: #F8E0E6;
+}
+
+h1{
+    font-family: "Brush Script MT", cursive;
+    font-weight: 900;
+    font-size: 3em;
+}
+
+h2{
+    font-family: "Brush Script MT", cursive;
+    font-weight: 400;
+    font-size: 2em;
+}
+
+h3{
+    font-family: "Comic Sans MS", cursive;
+    font-weight: 200;
+}
+
+p{
+    font-family: "Papyrus", fantasy;
+}
+
+a{
+    text-decoration: none;
+    background-color: #F5A9D0;
+    color: white;
+    border: .1em solid black;
+    padding-right: .3em;
+    padding-left: .3em;
+    font-family: "Brush Script MT", cursive;
+    font-size: 1.3em;
+}
+
+ul{
+    color: #F5A9D0;
+}

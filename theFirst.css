@@ -3,7 +3,6 @@ body {
 }
 
 h1{
-    text-align: justify;
     background-color: #FAAC58;
     color: #FAAC58;
 
@@ -15,16 +14,19 @@ a {
     font-style: oblique;
     font-family: fantasy;
     color: #2EFE2E;
+
 }
 
 h2{
-    font-family: "Comic Sans", cursive, sans-serif;
+    text-align: justify;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 p{
+    text-align: justify;
     color: red;
+    font-family: "Comic Sans MS", sans-serif;
     font-weight: 900;
-    font-family: monospace;
     font-size: 3em;
 }
 
