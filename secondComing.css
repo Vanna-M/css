@@ -28,6 +28,7 @@ a{
     padding-left: .3em;
     font-family: "Brush Script MT", cursive;
     font-size: 1.3em;
+    cursor: auto;
 }
 
 a:hover{
