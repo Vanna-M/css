@@ -19,10 +19,6 @@ h3{
     font-weight: 200;
 }
 
-p{
-    font-family: "Papyrus", fantasy;
-}
-
 a{
     text-decoration: none;
     background-color: #F5A9D0;
@@ -34,6 +30,36 @@ a{
     font-size: 1.3em;
 }
 
+a:hover{
+    background-color: #F6CEE3;
+    font-family: "Times New Roman", serif;
+}
+
 ul{
     color: #F5A9D0;
+    text-align: center;
+}
+
+.extreme{
+    text-decoration: overline;
+}
+
+.navzone{
+    border: .2em solid black;
+    padding: .1em;
+    text-align: center;
+    background-color: #F6CEE3;
+}
+
+#tehlulz{
+    text-decoration: line-through;
+}
+
+.content{
+    font-weight: bolder;
+}
+
+.prose{
+    text-align: justify;
+    font-family: "Papyrus", serif;
 }
