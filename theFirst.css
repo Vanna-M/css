@@ -2,7 +2,7 @@ body {
     background-color: #FF00FF;
 }
 
-h1{
+#head1{
     background-color: #FAAC58;
     color: #FAAC58;
 
@@ -24,7 +24,6 @@ h2{
 
 p{
     text-align: justify;
-    color: red;
     font-family: "Comic Sans MS", sans-serif;
     font-weight: 900;
     font-size: 3em;
@@ -32,4 +31,25 @@ p{
 
 ul{
     color: yellow;
+}
+
+.extreme{
+    font-size: 10em;
+}
+
+.navzone{
+    border: 2em dashed yellow;
+}
+
+#tehlulz{
+    font-family: "Comic Sans MS", sans-serif;
+    color: red;
+}
+
+.content{
+    cursor: wait;
+}
+
+.prose{
+    color: red;
 }
