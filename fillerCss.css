@@ -1,0 +1,56 @@
+div{
+    float: left;
+    /* leave space for padding, but have uniform width */
+    width: 95%;
+    padding: 2em;
+}
+
+div:hover{
+    background-color: #CECEF6;
+}
+
+#header{
+    background-image: url("mp_hg.jpg");
+
+}
+
+.pt1{
+    background-color: #A9E2F3;
+}
+
+.pt2{
+    background-color: #A9BCF5;
+}
+
+p{
+    font-family: "Papyrus", serif;
+    word-spacing: .2em;
+    text-align: justify;
+}
+
+h1, h2{
+    font-family: "Comic Sans MS", sans-serif;
+    word-spacing: .2em;
+}
+
+ul, ol{
+    font-family: "Papyrus", seif;
+    font-weight: 900;
+    word-spacing: .2em;
+    list-style-position: inside;
+}
+
+a{
+    text-decoration: none;
+    font-style: italic;
+    color: purple;
+    cursor: grab;
+}
+
+a:hover{
+    font-style: normal;
+    color: black;
+    background-color: white;
+    border: .5em solid black;
+    padding: 2em;
+}
